@@ -3,7 +3,7 @@
 * O projeto é uma aplicação spring boot básica
     * Banco H2 embutido
     * Sem biblioteca de templating (o front-end fica localizado em src/main/resources/static, é independente e consome o back-end via ajax)
-    * Para rodar basta usar o runner já configurado acima
+    * Para rodar basta usar o runner padrão do maven que está no projeto ou configurar na IDE de sua preferência
     * Acesso padrão em http://localhost:8080
     * A cesso ao banco em http://localhost8080/h2
 * Lembre-se que a qualidade de seu código será avaliada então documente, limpe e entregue somente 
